@@ -1,0 +1,41 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/" . "bits/")
+ ("/" . "Users/")
+ ("/Users/bits/" . ".config/")
+ ("/Users/bits/.config/" . "emacs/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/bits/.config/emacs/"
+ "/Users/bits/notes/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "GradInfo.org"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/bits/Documents/" (25521 1787 0 0) "McMaster/" "thisisalexcook.github.io/" "ParallelProgramming4CC3/" "Finance/" "Zoom/" "ParallelMatrixMultiply/" "notes/" "Books/" "__pycache__/" "Textbooks/" "Code/" "pyCode/" "dotfile/" "ParallelMergeSort/" "Mohawk/" "Training/" "scans/" "Wedding Photos/" ".localized" ".DS_Store" "Screenshots/" "_misc/" ".fleet/" "RCM/" "Music/" "../" "./")
+
+ ("/Users/bits/Documents/Textbooks/" (25286 4218 0 0) "Automate the Boring Stuff with Python Practical Programming for Total Beginners (Al Sweigart) (z-lib.org).pdf" "Andrew Hunt, David Thomas - The Pragmatic Programmer_ From Journeyman to Master (1999, addison-wesley) - libgen.lc.pdf" "Understanding Distributed Systems - 2nd Edition (Roberto Vitillo) (z-lib.org).pdf" "The Architecture Of Open Source Applications (Amy Brown and Greg Wilson (eds.)) (z-lib.org).pdf" "Object-Oriented Python Master OOP by Building Games and GUIs (Irv Kalb) (z-lib.org).pdf" "Eric Mazur - Principles & Practice of Physics 1-2(2014, Addison-Wesley) - libgen.lc.pdf" "The Beato Book 4.0 by Rick Beato (z-lib.org).pdf" "Machine Learning for Financial Risk Management with Python Algorithms for Modeling Risk (Early Release) (Abdullah Karasan) (z-lib.org).epub" "Introduction to Machine Learning with Python A Guide for Data Scientists (Andreas C. Müller, Sarah Guido) (z-lib.org).pdf" ".DS_Store" "../" "./")
+
+ ("/Users/" (25452 921 8559 201000) "bits/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/bits/notes/" (25520 58348 55176 342000) "202212201222-note2.md" "GradInfo.org" "202212201605-note3.md" "#GradInfo.org#" "202212201159-newNote.md" ".#GradInfo.org" "202212202025-HolidaySchedule .md" "../" "./")
+
+ ("/Users/bits/.config/emacs/" (25519 37717 230060 939000) "elpa/" "init.el" "auto-save-list/" "ido.last~" "init.el~" "ido.last" "../" "./")
+
+ ("/Users/bits/.config/" (25510 2320 516546 983000) "karabiner/" "fish/" "zsh/" "tmux/" "mpv/" "iterm2/" "yabai/" "htop/" "emacs/" "skhd/" "nvim/" "qBittorrent/" ".DS_Store" "sketchybar/" "ranger/" "../" "./")
+
+ ("/Users/bits/" (25511 19360 609280 309000) "src/" ".viminfo" ".gitconfig" ".cache/" ".python_history" "Downloads/" ".swiftpm/" ".gem/" "Documents/" ".npm/" ".Trash/" ".rubies/" "Applications/" "Movies/" ".idlerc/" ".zshenv" "notes/" "Public/" ".cups/" "env/" "#.DS_Store#" ".lesshst" ".matplotlib/" "Library/" "Desktop/" "mysql-kit/" ".bundle/" "Pictures/" ".local/" ".netrc" ".rbenv/" ".CFUserTextEncoding" ".lldb/" ".DS_Store" ".fleet/" ".docker/" "Music/" ".config/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

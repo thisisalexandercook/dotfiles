@@ -1,0 +1,43 @@
+# focus window
+alt - h : yabai -m window --focus west
+alt - j : yabai -m window --focus south
+alt - k : yabai -m window --focus north
+alt - l : yabai -m window --focus east
+
+# toggle window split type
+alt - e : yabai -m window --toggle split
+
+# increase window size
+shift + alt - w : yabai -m window --resize right:20:0
+shift + alt - d : yabai -m window --resize left:-20:0
+
+# decrease window size
+shift + alt - s : yabai -m window --resize bottom:0:-20
+shift + alt - a : yabai -m window --resize top:0:20
+
+# rotate tree
+alt - r : yabai -m space --rotate 90
+
+# swap managed window
+shift + alt - h : yabai -m window --swap west
+shift + alt - j : yabai -m window --swap south
+shift + alt - k : yabai -m window --swap north
+shift + alt - l : yabai -m window --swap east
+
+#blend applications
+alt - 0 : yabai --restart-service
+alt - 1 : yabai -m window --space 1; yabai -m space --focus 1
+alt - 2 : yabai -m window --space 2; yabai -m space --focus 2
+alt - 3 : yabai -m window --space 3; yabai -m space --focus 3
+alt - 4 : yabai -m window --space 4; yabai -m space --focus 4
+alt - 5 : yabai -m window --space 5; yabai -m space --focus 5
+alt - 6 : yabai -m window --space 6; yabai -m space --focus 6
+alt - 7 : yabai -m window --space 7; yabai -m space --focus 7
+alt - 8 : yabai -m window --space 8; yabai -m space --focus 8
+alt - 9 : yabai -m window --space 9; yabai -m space -- focus 9
+
+#test
+alt - q: yabai -m space --focus 2
+
+
+

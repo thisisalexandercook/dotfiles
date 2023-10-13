@@ -1,0 +1,21 @@
+[calendars]
+
+  [[home]]
+    path = ~/.calendars/home/
+
+  [[Grace and Alex]]
+    path = ~/.calendars/2014239969d904968c940fb56d23574b003db9e4970b817ca04eb29396ca7c50/
+
+  [[School]]
+    path = ~/.calendars/50E461B8-3B87-446D-BE95-6E6C339C3C95/
+
+  [[Teaching]]
+    path = ~/.calendars/EA3F88B4-C2BD-4B6E-AD85-6E6A86782E68/
+
+
+[locale]
+timeformat = %H:%M
+dateformat = %Y-%m-%d
+longdateformat = %Y-%m-%d
+datetimeformat = %Y-%m-%d %H:%M
+longdatetimeformat = %Y-%m-%d %H:%M

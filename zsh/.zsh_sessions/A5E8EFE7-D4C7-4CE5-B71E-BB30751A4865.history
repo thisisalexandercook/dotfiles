@@ -1,0 +1,1002 @@
+fix
+clear
+cd ...
+cd ../
+ls
+cd .config
+cd nvim
+ls
+cd lua
+ls
+nvim plugins.lua
+fix
+clear
+emacs
+emacs
+emacs
+emacs
+cd .config/emacs
+ls
+cd ~
+ls -a
+cd .emacs.d
+ls
+cd auto-save-list
+ls
+cd ../
+ls
+cd elpa
+ls
+cd ../
+cd ../
+rm -r .emacs.d
+ls
+ls -a
+ls
+cd .config
+ls
+cd zsh
+ls
+cd ../
+cd iterm2
+ls
+cd ../
+ls
+cd zsh
+ls
+ls -a
+nvim .zshrc
+cd .config
+cd emacs
+ls
+cat init.el
+ls
+emacs init.el
+emacs
+cd ~
+emacs
+ls -a
+rm -r .emacs
+rm -r .emacs.d
+ls
+ls -a
+emacs
+emacs
+emacs
+emacs
+cd .config/emacs
+ls
+emacs
+emacs
+SsSsSsSsScCCCCC
+fix
+emacs
+emacs
+emacs
+emacs
+emacs
+emacs
+fix
+emacs
+fix
+exit
+emacs
+emacs
+emacs
+emacs
+emacs
+emacs
+emacs
+emacsclient -c
+emacsclient
+emacsclient -a
+emacsclient --help
+emacsclient -c
+emacs
+ls
+cd .config
+ls
+cd emacs
+ls
+cat init.el
+cd ../
+ls
+cd zsh
+ls
+ls -a
+nvim .zshrc
+emacs
+emcas
+emacs
+ls
+ls -a
+cd .emacs.d
+ls
+cp ~/.config/emacs/init.el ~/.emacs.d/
+ls
+emacs
+emacs
+emacs
+emacs
+emacs
+emacs
+fix
+fix
+yabai
+fix
+fix
+fix
+fix
+fix
+brew install 
+tlmgr
+tlmgr install geometry
+sudo tlmgr install geometry
+tlmgr update --self
+sudo tlmgr update --self
+brew install tlmgr
+tlmgr
+tlmge --help
+tlmgr --help
+sudo tlmgr install geometry
+sudo tlmgr update --self
+sudo tlmgr install geometry
+fix
+sudo tlmgr install enumitem
+brew install ispell
+which ispell
+fix
+pip3 install jupyter
+pip3 install jupyterlab
+pip3 install numpy
+pip3 install matplotlib
+sxiv
+brew install sxiv
+brew install gimp
+gimp
+brew install sxiv
+brew upgrade
+brew install sxiv
+brew install imagemagick
+magick
+magick display
+ls
+nvim .mailcap
+cat .mailcap
+fix
+fix
+fix
+fix
+fix
+clear
+AlEX COOKclaert
+clear
+clear
+ls
+cd Documents/McMaster/winter2023/SenoirProject/Code/gitfolder
+git
+git add .
+git init
+git init master
+ls
+rm -r master
+ls
+git cimmit
+git commit
+git add .
+git commit
+git
+git push 
+git remote add https://github.com/yiyonglok/Nutrition-OCR-Engine
+git remote add thisisalexandercook https://github.com/yiyonglok/Nutrition-OCR-Engine
+git push
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+ls
+cd ~
+ls
+ls -a
+cd .emacs.d
+ls
+nvim init.el
+nvim init.el;
+nvim init.el;
+sudo pip3 install pylint
+sudo pip3 install virtualenv
+brew install upgrade
+brew update
+brew upgrade
+brew install sioyek
+sioyek
+nvim
+ls
+nvim
+ls
+ pip install --upgrade pip
+source /Users/bits/Documents/McMaster/winter2023/SenoirProject/Code/KTester/venv/bin/activate\
+pip install PIL
+pip install PIL
+pip list
+pip uninstall Pillow
+pip list
+pip list
+pip uninstall Pillow-SIMD 
+pip install Pillow
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+ls
+ls -a
+cd .emacs.d
+ls
+nvim init.el
+nvim init.el
+fix
+where
+ps
+pl
+where
+ls
+psw
+pws
+realpath
+cd ../
+ls
+realpath
+cd Documents
+ls
+realpath
+cd Mcmaster
+cd winter2023
+cd RealTimeSystems
+cd Lectures
+ls
+fix
+fix
+fix
+/bin/bash -c "$(curl -fsSL 'https://code-with-me.global.jetbrains.com/UVmuVX3NhVK4naOWfZo1aA/cwm-client-launcher-mac.sh'"?arch_type=$(uname -m)")"
+brew install libjpeg 
+fix
+pip list
+pip install upgrade
+pip install --upgrade pip\
+
+csrutil status
+fix
+ls
+cd notes
+ls
+ls
+cd ../
+ls
+fix
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
+ls
+spicetify
+spicetify
+restart
+reload
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
+spicetify
+spicetify
+spicetify
+spicetify
+spicetify
+ls
+gpg --gen-key
+Loremipsum89!
+cd Documents
+pass init "thisisalexandercook@gmail.com"
+brew install pass
+pass
+pass init
+gpg --gen-key
+gpg --gen-key
+gpg --gen-key
+pass
+pass init
+pass init thisisalexandercook@gmail.com
+pass insert
+pass insert gmail
+brew install gnupg
+gpg --full-generate-key
+pass init "thisisalexandercook@protonmail.ch"
+pass
+pass
+pass show gmail
+ls
+pass
+pass show
+pass show gmail
+brew install tree
+brew install getopt
+brew install gnu-getopt
+brew install gnupg
+pass
+pass init
+pass init thisisalexandercook@protonmail.eh
+pass init thisisalexandercook@protonmail.ch
+ls
+pass init
+pass insert
+pass insert test
+pass
+pass show gmail
+brew install bash
+bash
+ls
+pass init
+pass init thisisalexandercook@protonmail.ch
+pass init "thisisalexandercook@protonmail.ch"
+gpg --list-secret-keys --keyid-format LONG
+pass
+pass show gmail
+pass init 
+brew unlink gnupg2 gpg-agent dirmngr
+brew uninstall gnupg2 gpg-agent dirmngr
+brew install gnupg21
+brew install gnupg2
+ln -s /usr/local/bin/gpg2 /usr/local/bin/gpg
+sudo ln -s /usr/local/bin/gpg2 /usr/local/bin/gpg
+curl -sSL github.com/passff/passff-host/releases/latest/download/install_host_app.sh | bash -s -- firefox
+curl -sSL github.com/passff/passff-host/releases/latest/download/install_host_app.sh |  curl -sSL github.com/passff/passff-host/releases/latest/download/install_host_app.sh | bash -s -- firefox
+curl -sSL github.com/passff/passff-host/releases/latest/download/install_host_app.sh | zsh -s -- firefox
+/Users/bits/Library/Application Support/Mozilla/NativeMessagingHostsc
+cd /Users/bits/Library/Application\ Support/Mozilla/NativeMessagingHosts
+ls
+cat passff.json
+cat passff.py
+fix
+brew install vdirsyncer
+vdirsyncer discover
+vdirsyncer discover
+vdirsyncer discover
+vdirsyncer sync
+brew install khal
+brew install khal
+khal printformats
+where khal
+ls
+cd .emacs.d
+nvim init.el
+nvim init.el
+nvim init.el
+nvim init.el
+nvim init.el
+nvim init.el
+khal
+khal calendar
+vdirsyncer sync
+vdirsyncer sync
+khal calendar
+khal
+khal search Test event
+khal search "Test event"
+khal
+khal at
+khal calendar
+vdirsyncer discover
+vdirsyncer sync
+khal 
+khal calendar
+khal import
+khal configure
+vdirsyncer sync
+cd ../
+ls
+ls -a
+cd .calendars
+ls
+cd home
+ls
+cd ../
+khal
+khal interactive
+khal printcalendars
+cd ../
+ls
+cd .config/khal
+ls
+nvim config
+khal
+khal calendar
+khal print calendars
+khal printcalendars
+khal configure
+rm config
+ls
+khal configure
+ls
+nvim config
+khal
+khal calendar
+ls
+cd ../
+cd ../
+ls
+cd .calendars
+ls
+vdirsyncer discover
+ls
+vdirsyncer sync
+cd ../
+ls
+cd .config
+ls
+cd khal
+ls
+nvim khal
+ls
+nvim config
+cd ../
+cd ../
+ls
+cd .calendars
+ls
+cd ../
+ls
+cd .config
+ls
+cd khal
+ls
+nvim config
+khal 
+khal calendar
+cd ../
+cd ../
+cd .emacs.d
+nvim init.el
+ls
+cd .calendars
+cd ../
+cd .con
+cd .config
+ls
+cd khal
+ls
+nvim config
+vdirsyncer
+vdirsyncer discover
+nvim config
+nvim config
+nvim config
+vdirsyncer sync
+khal 
+khal calendar
+nvim config
+khal list --format "* {title} \n <{start-date} {start-time}-{end-time}> \n {location} \n {description}" --day-format "" today 10d
+whois
+whois www.concordia.ca
+whois www.mohawkcollege.ca
+who is www.mohawkcollege.ca
+whois www.mohawkcollege.ca
+whois mohawkcollege.ca
+whois concordia.ca
+traceroute concordia.ca
+whois concordia.ca
+whois 
+whois concordia.ca
+whois mohawkcollege.ca
+whois mohawkcollege.ca
+whois $(dig +short concordia.ca | head -1)
+whois $(dig +short concordia.ca | head -1)
+nslookup
+dig
+dig 
+dig concordia.ca
+nslookup
+nslookup -type=soa concordia.ca
+nslookup concordia.ca ns-a.concordia.ca
+nslookup -type=soa google.com
+nslookup -type=soa concordia.ca
+nslookup concordia.ca ns-a.concordia.ca
+nslookup -type=soa mohawkcollege.ca
+nslookup mohawkcollege.ca ns1-02.azure-dns.com
+nslookup
+nslookup mohawkcollege.ca ns1-02.azure-dns.com
+dig -t ns concordia.ca
+dig concordia.com +nssearch
+dig concordia.ca +nssearch
+dig A concordia.ca
+dig SOA concordia.ca
+dig SOA mohawkcollege.ca
+dig SOA concordia.ca
+dig SOA concordia.ca
+dig mohawkcollege.ca NS
+dig concordia.ca NS
+dig concordia.ca MX
+dig mohawkcollege.ca MX
+dig concordia.ca TXT
+dig concordia.ca
+dig +short 31.108.90.216.origin.asn.cymru.com TXT
+dig +short 185.244.205.132.origin.asn.cymru.com TXT
+traceroute concordia.ca
+who is concordia.ca
+whois concordia.ca
+who is 132.205.244.185
+whois 132.205.244.185
+clear
+khal
+verdisync
+vdirsyncer
+verdisync sync
+vdirsyncer sync
+vdirsyncer discover
+brew install sioyek
+brew upgrade
+ls
+cd .emacs.d
+ls
+nvim init.el
+nvim init.el
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+defaults write org.gnu.Emacs HideDocumentIcon YES
+fix
+fix
+fix
+fix
+cd .config/skhd
+ls
+nvim skhdrc
+brew install nyxt
+sudo brew install nyxt
+brew install nyxt
+git-credential-osxkeychain
+brew install incidentist/nyxt/nyxt
+brew install incidentist/nyxt/nyxt
+brew install incidentist/nyxt/nyxt
+brew install cudatoolkit
+fix
+ls
+cd .config
+cd skhd
+ls
+nvim skhdrc
+ls
+ls -a
+clear
+last
+ls -l
+lastlog
+last log
+lastlog
+wtmp
+ls
+defaults write com.apple.dock autohide-delay -float 1000; killall Dock
+defaults write com.apple.dock autohide-delay -float 45; killall Dock
+fix
+whois www.carleton.ca
+whois https://carleton.ca/
+whois carleton.ca/
+whois carleton.ca
+whois concordia.ca
+Registry Expiry Date: 2029-01-12T05:00:00ZRegistry Expiry Date: 2029-01-12T05:00:00Z
+whois $(dig +short concordia.ca | head -1)
+whois $(dig +short carleton.ca | head -1)
+dig concordia.ca NS
+dig carleton.ca NS
+dig concordia.ca MX
+dig carleton.ca MX
+dig carleton.ca TXT
+dig +short 206.206.117.134.origin.asn.cymru.com TXT
+dig +short 185.244.205.132.origin.asn.cymru.com TXT
+whois concordia.ca
+whois carleton.ca
+get
+get https://www.example.com/
+https://www.example.com/
+whois carleton.ca
+ls
+fix
+exit
+fix
+exit
+fix
+exit
+fix
+fix
+exit
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+yabai -m window --space 2
+yabai -m window --space 5
+yabai -m window --space 2
+yabai -m window --space 5
+yabai -m window --focus recent
+yabai -m space --focus recent
+yabai -m space --focus recent
+yabai -m space --move prev
+sudo yabai --load-sa
+yabai -m space --move prev
+yabai -m space --move prev
+yabai -m space --move prev
+fix
+yabai -m space --focus 2
+mix
+mix
+mix
+cd ../
+ls
+cd zsh
+ls
+ls -a
+source .zshrc
+mix
+source .zshrc
+back
+mix
+back
+mix
+fix
+mix
+fix
+mix
+fix
+mix
+fix
+fix
+ls
+source .zshrc
+arrange
+yabai -m query --windows --window 
+yabai -m query --display 
+yabai -m query --displays
+source .zshrc
+arrange
+dear gt, 
+fix
+ipconfig
+ifconfig
+ifconfig -a
+ifconfig | grep inet
+ls local
+eveusbc
+sioyek --version
+fix
+sudo yabai --load-sa
+ls
+ls
+fix
+fix
+yabai -m space --focus 3 
+yabai -m space --focus 3 
+fix
+fix
+mix
+source
+source .zshrc
+mix
+fix
+yabai --install
+yabai
+yabai --version
+mix
+sudo yabai --load-sa
+fix
+brew update
+brew upgrade
+fix
+source .zshrc
+arrange
+ sudo yabai --install-sa i
+arrange
+sudo yabai --install-sa
+  sudo yabai --install-sa 
+sudo yabai --install-sa i
+sudo yabai --install-sa
+brew install yabai --HEAD && sudo yabai --install-sa
+brew reinstall yabai
+sudo yabai --install-sa
+mix
+back
+arrange
+~/.config/zsh
+source .zshrc
+arrange
+mix
+back
+yabai -m space --display 2
+which yabai
+yabai --HEAD
+yabai --version
+yabai -m space --display
+yabai -m space --display 2
+sudo yabai --uninstall-sa && sudo yabai --install-sa
+yabai --install
+yabaio --uninstall
+yabai --uninstall
+mix
+back
+yabai -m space next
+sudo yabai --load-sa
+yabai -m space --display 2
+yabai -m space --display 1
+back
+arrange
+arrange
+arrange
+arrange
+fix
+fix
+brew update
+yabai --stop-service 
+yabai --version
+ yabai --start-service
+yabai --start-service
+fix
+fix
+mix
+back
+mix
+back
+fix
+fix
+brew services run yabai
+brew run yabai
+brew doctor
+brew link six
+brew missing
+fix
+brew untap yabai/brew && brew tap yabai/brew
+brew untap yabai && brew tap yabai
+brew tap-fino
+brew tap-info
+brew tap-info yabai
+brew tap-list
+brew tap
+brew uninstall yabai
+brew untap koekeishiya/formulae
+brew install koekeishiya/formulae/yabai
+brew upgrade yabai
+fix
+yabai --stop-service
+yabai --start-service
+yabai --stop-service
+yabai --start-service
+which yabai
+sudo visudo -f /private/etc/sudoers.d/yabai
+whoami
+which yabai
+shasum -a 256 $(which yabai)
+mix
+mix
+mix
+fix
+exit
+yabai
+sudo yabai
+yabai --restart-service
+fix
+yabai --restart-service
+sioyek --version
+sioyek
+ifconfig
+fix
+mix
+back
+mix
+fix
+back
+source .zshrc
+mix
+cd .config
+cd zsh
+source .zshrc
+mix
+back
+mix
+back
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+fix
+mix
+back
+fix
+fix
+fix
+source .zshrc
+fix
+mix
+back
+mix
+back
+mix
+back
+fix
+fix
+clear
+clear
+clear
+ls
+fix
+fix
+fix
+fix
+source zshrc
+cd .config
+ls
+cd zsh
+source zshrc
+ls
+ls -a
+source .zshrc
+mix "$4"
+mix "4"
+fix
+source .zshrc
+mix "4"
+back
+mix "8"
+mix "8"
+mix "8"
+back
+mix "9"
+mix "9"
+mix "9"
+mix "5"
+mix "5"
+back
+wmctrl
+cd ../
+ls
+cd skhd
+source skhdrc
+cd ../
+ls
+cd zsh
+source .zshrc
+source .zshrc
+which skhd
+skhd
+mix
+skhd
+skhd
+skhd
+path
+pathchk
+ech $PATH
+$PATH
+brew services stop skhd
+skhd &!
+back
+back
+arrange
+sudo skhd
+cd ../
+ls
+cd skhd
+mix.sh
+./mix.sh
+sudo ./mix.sh
+ls
+chmod u+x mix.sh
+./mix.sh
+skhd
+skhd
+./mix.sh
+back
+python
+python3
+where python
+where python3
+cd ../
+cd zsh
+source .zshrc
+python
+python3
+where python
+where python3
+source .zshrc
+python
+python
+dvipng
+brew install dvipng
+cd ~/
+cd Downloads
+cd dvipng
+./make
+./install
+sudo ./install
+sudo ./install-sh
+./configure OPTIONS
+brew install libgd
+brew install kpathsea
+brew install FreeType
+brew install libpng
+./configure OPTIONS
+where libpng
+brew install libpng
+brew install libz
+magick
+magick -list
+brew install dvisvgm
+cd ../
+cd dvisvgm-3.0.4
+./configure
+brew install kpathsea
+brew install tex
+brew install mactex
+brew uninstall basictex
+brew install mactex
+brew install mactex
+./configure
+./configure
+mactex
+which mactex
+brew install mactex
+brew reinstall --cask mactex
+./configure
+  eval "$(/usr/libexec/path_helper)"
+eval "$(/usr/libexec/path_helper)"
+./configure
+kpathsea
+mactex
+which mactex
