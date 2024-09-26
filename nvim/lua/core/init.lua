@@ -1,0 +1,7 @@
+require('core.options')
+require('core.keymaps')
+require('core.yankhighlight')
+require('core.rememberfolds')
+require('core.journal')
+require('core.filejumps')
+require('core.inbox')
