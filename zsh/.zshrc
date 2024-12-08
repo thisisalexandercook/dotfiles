@@ -16,8 +16,13 @@ export ZDOTDIR="$HOME/.config/zsh"
 
 bindkey -s '^n' 'zk edit --interactive\n'
 
+
+#ASDF CONFIG
+. "$(brew --prefix asdf)/libexec/asdf.sh"
+
 #JAVA PATH
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/
+# export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/
+export JAVA_HOME=$(asdf where java)  
 #CHECKER PATH
 export CHECKERFRAMEWORK=${HOME}/code/checker-framework
 export PATH=$CHECKERFRAMEWORK/checker/bin:${PATH}
