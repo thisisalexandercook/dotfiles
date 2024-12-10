@@ -24,7 +24,7 @@ bindkey -s '^n' 'zk edit --interactive\n'
 # export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/
 export JAVA_HOME=$(asdf where java)  
 #CHECKER PATH
-export CHECKERFRAMEWORK=${HOME}/code/checker-framework
+export CHECKERFRAMEWORK=${HOME}/eisop/checker-framework
 export PATH=$CHECKERFRAMEWORK/checker/bin:${PATH}
 #CHECKER ALIAS
 alias javacheck='$CHECKERFRAMEWORK/checker/bin/javac'

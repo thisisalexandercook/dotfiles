@@ -1,19 +1,19 @@
 return {
-  "nvim-java/nvim-java",
+  'nvim-java/nvim-java',
   config = false,
   dependencies = {
     {
-      "neovim/nvim-lspconfig",
+      'neovim/nvim-lspconfig',
       opts = {
         servers = {
           jdtls = {
-            -- your jdtls configuration goes here
+            -- Your custom jdtls settings goes here
           },
         },
         setup = {
           jdtls = function()
-            require("java").setup({
-              -- your nvim-java configuration goes here
+            require('java').setup({
+              -- Your custom nvim-java configuration goes here
             })
           end,
         },
