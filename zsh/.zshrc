@@ -21,14 +21,15 @@ bindkey -s '^n' 'zk edit --interactive\n'
 . "$(brew --prefix asdf)/libexec/asdf.sh"
 
 #JAVA PATH
-# export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/
 export JAVA_HOME=$(asdf where java)  
 #CHECKER PATH
 export CHECKERFRAMEWORK=${HOME}/eisop/checker-framework
 export PATH=$CHECKERFRAMEWORK/checker/bin:${PATH}
-#CHECKER ALIAS
+#CHECKER COMPILE ALIAS
 alias javacheck='$CHECKERFRAMEWORK/checker/bin/javac'
-## PATH
+#CHECKER DEBUG ALIAS
+alias javabug='java -jar "$CHECKERFRAMEWORK/checker/dist/checker.jar" -J-Xdebug -J-Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=5005 -processor org.checkerframework.checker.nullness.NullnessChecker'
+# MISC PATH
 export MAGICK_HOME=/opt/homebrew/opt/imagemagick/
 export PATH="/opt/homebrew/opt/imagemagick/bin:$PATH"
 export DYLD_LIBRARY_PATH="$MAGICK_HOME/lib/"
