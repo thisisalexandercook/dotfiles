@@ -1,24 +1,26 @@
+-- Code Tree Support / Syntax Highlighting
 return {
-    -- Highlight, edit, and navigate code
-    'nvim-treesitter/nvim-treesitter',
-    dependencies = {
-      'nvim-treesitter/nvim-treesitter-textobjects',
+  -- https://github.com/nvim-treesitter/nvim-treesitter
+  'nvim-treesitter/nvim-treesitter',
+  event = 'VeryLazy',
+  dependencies = {
+    -- https://github.com/nvim-treesitter/nvim-treesitter-textobjects
+    'nvim-treesitter/nvim-treesitter-textobjects',
+  },
+  build = ':TSUpdate',
+  opts = {
+    highlight = {
+      enable = true,
     },
-    build = ':TSUpdate',
-
-    config = function()
-
-    local treesitter = require("nvim-treesitter.configs")
-
-
-    treesitter.setup({
-        ensure_installed = { "c", "lua", "vim", "vimdoc", "query", "markdown", "markdown_inline", "bash", "java" },
-
-        auto_isntall = true,
-        highlight = {enable = true},
-        indent = {enable = true},
-    })
-
-  end,
-
+    indent = { enable = true },
+    auto_install = true, -- automatically install syntax support when entering new file type buffer
+    ensure_installed = {
+      'lua',
+    },
+    ignore_install = { 'org'},
+  },
+  config = function (_, opts)
+    local configs = require("nvim-treesitter.configs")
+    configs.setup(opts)
+  end
 }

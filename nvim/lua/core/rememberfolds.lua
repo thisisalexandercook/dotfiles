@@ -1,4 +1,3 @@
-
 vim.cmd([[augroup remember_folds
   autocmd!
   au BufWinLeave ?* mkview 1

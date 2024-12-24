@@ -6,6 +6,9 @@ fpath+=("$(brew --prefix)/share/zsh/site-functions")
 autoload -U promptinit; promptinit
 prompt pure
 
+#VI SETTINGS
+set -o vi
+
 #SET XDG PATH
 export XDG_CONFIG_HOME="$HOME/.config"
 
