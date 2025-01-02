@@ -1,0 +1,7 @@
+#THEME
+theme = tokyonight-day
+# dark theme
+# theme = tokyonight
+
+#TITLEBAR
+macos-titlebar-style = hidden

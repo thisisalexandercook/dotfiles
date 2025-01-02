@@ -1,6 +1,12 @@
+#AUTOCOMPLETE
+source $HOMEBREW_PREFIX/share/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+# not sure why this opt is required, found in issue https://github.com/marlonrichert/zsh-autocomplete/issues/761 
+setopt interactivecomments
+
 #ALIAS
 alias python=python3
 alias clang++='clang++ -std=c++11'
+
 #THEME
 fpath+=("$(brew --prefix)/share/zsh/site-functions")
 autoload -U promptinit; promptinit

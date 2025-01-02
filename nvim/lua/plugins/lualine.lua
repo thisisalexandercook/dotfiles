@@ -9,7 +9,7 @@ return {
     -- See `:help lualine.txt`
     opts = {
       options = {
-        theme = 'onedark',
+        theme = 'tokyonight',
         component_separators = '|',
         section_separators = { left = '', right = '' },
 

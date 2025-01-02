@@ -26,10 +26,12 @@ vim.opt.cursorline = true
 
 -- Appearance
 vim.wo.signcolumn = 'yes'
+vim.o.conceallevel = 2
+vim.opt.showmode = false
 vim.diagnostic.config {
   float = { border = "rounded" }, -- add border to diagnostic popups
 }
-vim.opt.background = "dark"
+-- vim.opt.background = "dark"
 vim.o.termguicolors = true
 
 -- Working Directory
